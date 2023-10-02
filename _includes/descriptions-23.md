@@ -381,3 +381,16 @@ _Excerpt_The Department of Computer Science at Vassar College invites applicatio
 [_back to all deadlines_](#deadlines)
 
 ------------
+
+### Xavier University
+{: #xavier}
+
+[Excerpt] The Department of Computer Science at Xavier University invites applications for two tenure-track positions, one at the assistant professor level and the other at open rank, starting Fall 2024. Applicants should have a Ph.D. in Computer Science or Computer Science Education; the degree should be completed by August 2024. Candidates should have an interest in helping grow a diverse and inclusive student community while teaching a variety of undergraduate courses, including their own specialty. Along with a B.A. and B.S. in computer science, Xavier’s computer science faculty are integral to the university’s programs in cybersecurity and data science. 
+
+- Review will begin on **October 23, 2023**
+- Cincinnati, OH, USA
+
+[Full Job Posting](https://academicjobsonline.org/ajo/jobs/26015){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
